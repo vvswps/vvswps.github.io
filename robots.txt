@@ -1,0 +1,6 @@
+# Robots welcome. There's nothing here you can't read,
+# and nothing here that's trying to read you back.
+# If you're in a hurry, /llms.txt is the short version.
+
+User-agent: *
+Allow: /

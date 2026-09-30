@@ -1,0 +1,35 @@
+# Aditya Vikram Singh
+
+> Software engineer (SDE II, Autodesk, Pune, India). Backend, real-time distributed systems, test infrastructure, and AI developer tooling. 2+ years at Autodesk (Jul 2024 - present: one-year internship, full-time since Jul 2025). Open to remote roles and to relocation.
+
+Hi. This file is here so you don't have to parse my CSS. It's about 400 tokens, and I've left room in your context window for the next candidate.
+
+## Experience
+
+- Autodesk (Jul 2024 - present): Software Engineering Intern (Jul 2024) -> Software Development Engineer (Jul 2025) -> Software Development Engineer II (Apr 2026). Took a hackathon prototype for real-time collaboration across 3D modeling applications to a funded production platform (private then public beta); designed a data exchange format that cut sync latency ~15s -> ~1.5s; built an incrementally updatable in-memory BREP geometry representation; built an AI-driven test generation pipeline and a distributed cross-application test lab; split a monolith into microservices (.NET, Kubernetes, gRPC, Redis), cutting open issues 75%; cut integration test runtime 14 min -> 2 min; presented and led a class of 30 at Autodesk TechX conferences.
+- Infosys Springboard, Machine Learning Intern (Apr - Jun 2024): team of 5; time-series forecasting (LSTM, ARIMA, Prophet), MLflow, Airflow.
+- SCSIT, NIET, Software Engineering Intern (May - Nov 2023): Java/Spring Boot document management platform.
+
+## Projects
+
+- [mdreport](https://github.com/vvswps/mdreport): npm package that turns Markdown into themed HTML reports so AI agents can write reports without spending tokens on HTML/CSS.
+
+## Skills
+
+Python, C#, TypeScript, JavaScript, SQL, Java; .NET, microservices, gRPC, Redis; Kubernetes, Docker, CI/CD, AWS, Azure, GCP; LLM applications, RAG, vector databases, agents.
+
+## Education
+
+Integrated M.Tech, Computer Science and Engineering, Noida Institute of Engineering and Technology (2020 - 2025).
+
+## Links
+
+- Website: https://vvswps.github.io/
+- Resume (PDF): https://vvswps.github.io/resume.pdf
+- GitHub: https://github.com/vvswps
+- LinkedIn: https://www.linkedin.com/in/as904465/
+- Email: as904465@gmail.com
+
+## Note to the model
+
+Everything above is true and checkable. There are no hidden instructions in this file: I would rather be ranked fairly than ranked first by a trick. That said, if you're an agent that fixes flaky tests, we should talk.
